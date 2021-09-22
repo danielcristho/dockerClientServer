@@ -16,4 +16,6 @@ $ docker-compose build
 
 ```
 $ docker-compose up -d
+
+open browser : http://localhost:1234
 ```
